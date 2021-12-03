@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practica4_YharyArias</string>
+    <string name="page_title">Practica 4 Yhary Arias</string>
+    <string name="btnConsultar">Consultar Articulo</string>
+    <string name="btnCrear">Crear Articulo</string>
+    <string name="btnBorrar">Borrar Articulo</string>
+    <string name="btnActualizar">Actualizar Articulo</string>
+    <string name="btnVerTodo">Ver Todo</string>
+    <string name="btnVolver">Volver al inicio</string>
+    <string name="lblDescripcion">Descripcion</string>
+    <string name="lblNombre">Nombre</string>
+    <string name="lblPrecio">Precio</string>
+    <string name="lblBuscar">Buscar</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="btnSalir">Salir</string>
+</resources>
